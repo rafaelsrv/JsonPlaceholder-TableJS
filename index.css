@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+
+.main{
+    background-color: greenyellow;
+    width: 100vw;
+    height: 100vh;
+}
+.header{
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    width: auto;
+}
+
+.headers{
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+    
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.5rem;
+}
+.elements{
+    background-color: gray;
+}
+td{
+    border: 1px solid black;
+    gap:0;
+}
