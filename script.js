@@ -41,6 +41,8 @@ function getTextValue(){
             })
        } else {
     filteredUsers.forEach(data =>{
+        
+        
 
         let newTr = document.createElement("tr")
         let newTd1 = document.createElement("td")
@@ -63,7 +65,15 @@ function getTextValue(){
 
 }
 
-getUser()
+
+
+
+     
+    
+    
+
+
+
 // filteredUsers.forEach(data =>{
 
 //             let newTr = document.createElement("tr")
